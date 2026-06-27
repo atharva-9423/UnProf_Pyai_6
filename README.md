@@ -46,9 +46,9 @@ A Python data analysis project built with **Pandas** that reads, cleans, and sum
 
 📌 Top 3 Performers:
 -----------------------------------
-  🏆 Fatima Sheikh        Avg: 93.4  Grade: A+
+  🏆 Sayali Shelke        Avg: 93.4  Grade: A+
   🏆 Meena Joshi          Avg: 90.2  Grade: A+
-  🏆 Ali Khan             Avg: 87.0  Grade: A
+  🏆 Samar Joshi          Avg: 87.0  Grade: A
 ```
 
 ---
